@@ -1,0 +1,87 @@
+{
+  "common": {
+    "loading": "లోడ్ అవుతోంది...",
+    "error": "లోపం సంభవించింది",
+    "success": "విజయవంతం",
+    "cancel": "రద్దు చేయండి",
+    "save": "సేవ్ చేయండి",
+    "delete": "తొలగించండి",
+    "edit": "సవరించండి",
+    "view": "చూడండి",
+    "close": "మూసివేయండి",
+    "back": "వెనుకకు",
+    "next": "తదుపరి",
+    "submit": "సమర్పించండి",
+    "search": "వెతకండి"
+  },
+  "navigation": {
+    "home": "హోమ్",
+    "shop": "షాప్",
+    "categories": "వర్గాలు",
+    "cart": "కార్ట్",
+    "wishlist": "విష్‌లిస్ట్",
+    "account": "ఖాతా",
+    "orders": "ఆర్డర్లు",
+    "support": "సహాయం"
+  },
+  "auth": {
+    "login": "లాగిన్",
+    "register": "రిజిస్టర్",
+    "logout": "లాగ్అవుట్",
+    "email": "ఇమెయిల్",
+    "password": "పాస్‌వర్డ్",
+    "confirmPassword": "పాస్‌వర్డ్ నిర్ధారించండి",
+    "forgotPassword": "పాస్‌వర్డ్ మర్చిపోయారా?",
+    "name": "పేరు",
+    "phone": "ఫోన్"
+  },
+  "product": {
+    "price": "ధర",
+    "sale": "అమ్మకం",
+    "outOfStock": "స్టాక్ లో లేదు",
+    "inStock": "స్టాక్ లో ఉంది",
+    "addToCart": "కార్ట్‌కి జోడించండి",
+    "addToWishlist": "విష్‌లిస్ట్‌కి జోడించండి",
+    "removeFromWishlist": "విష్‌లిస్ట్ నుండి తొలగించండి",
+    "description": "వివరణ",
+    "specifications": "స్పెసిఫికేషన్స్",
+    "reviews": "సమీక్షలు",
+    "fabric": "వస్త్రం",
+    "color": "రంగు",
+    "occasion": "సందర్భం"
+  },
+  "cart": {
+    "empty": "మీ కార్ట్ ఖాళీగా ఉంది",
+    "total": "మొత్తం",
+    "subtotal": "సబ్‌టోటల్",
+    "shipping": "షిప్పింగ్",
+    "tax": "పన్ను",
+    "checkout": "చెక్‌అవుట్",
+    "continueShopping": "షాపింగ్ కొనసాగించండి",
+    "quantity": "పరిమాణం",
+    "remove": "తొలగించండి"
+  },
+  "checkout": {
+    "shippingAddress": "షిప్పింగ్ చిరునామా",
+    "billingAddress": "బిల్లింగ్ చిరునామా",
+    "paymentMethod": "చెల్లింపు విధానం",
+    "orderSummary": "ఆర్డర్ సారాంశం",
+    "placeOrder": "ఆర్డర్ చేయండి",
+    "orderSuccess": "ఆర్డర్ విజయవంతంగా పూర్తయింది!"
+  },
+  "account": {
+    "profile": "ప్రొఫైల్",
+    "addresses": "చిరునామాలు",
+    "orderHistory": "ఆర్డర్ చరిత్ర",
+    "settings": "సెట్టింగ్‌లు",
+    "changePassword": "పాస్‌వర్డ్ మార్చండి"
+  },
+  "support": {
+    "createTicket": "టికెట్ సృష్టించండి",
+    "myTickets": "నా టికెట్లు",
+    "ticketStatus": "టికెట్ స్థితి",
+    "ticketSubject": "విషయం",
+    "ticketMessage": "సందేశం",
+    "ticketPriority": "ప్రాధాన్యత"
+  }
+} 

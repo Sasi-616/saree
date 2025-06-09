@@ -1,0 +1,146 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "search": "Search"
+  },
+  "navigation": {
+    "home": "Home",
+    "shop": "Shop",
+    "new-arrivals": "New Arrivals",
+    "collections": "Collections",
+    "sale": "Sale",
+    "language": "Change Language",
+    "login": "Login",
+    "register": "Register",
+    "myAccount": "My Account",
+    "myOrders": "My Orders",
+    "logout": "Logout",
+    "account": "Account"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password?",
+    "name": "Name",
+    "phone": "Phone",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?"
+  },
+  "product": {
+    "price": "Price",
+    "sale": "Sale",
+    "outOfStock": "Out of Stock",
+    "inStock": "In Stock",
+    "addToCart": "Add to Cart",
+    "addToWishlist": "Add to Wishlist",
+    "removeFromWishlist": "Remove from Wishlist",
+    "description": "Description",
+    "specifications": "Specifications",
+    "reviews": "Reviews",
+    "fabric": "Fabric",
+    "color": "Color",
+    "occasion": "Occasion",
+    "relatedProducts": "You May Also Like"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "Tax",
+    "checkout": "Proceed to Checkout",
+    "continueShopping": "Continue Shopping",
+    "quantity": "Quantity",
+    "remove": "Remove"
+  },
+  "checkout": {
+    "shippingAddress": "Shipping Address",
+    "billingAddress": "Billing Address",
+    "paymentMethod": "Payment Method",
+    "orderSummary": "Order Summary",
+    "placeOrder": "Place Order",
+    "orderSuccess": "Order placed successfully!"
+  },
+  "account": {
+    "profile": "Profile",
+    "addresses": "Addresses",
+    "orderHistory": "Order History",
+    "settings": "Settings",
+    "changePassword": "Change Password"
+  },
+  "support": {
+    "createTicket": "Create Ticket",
+    "myTickets": "My Tickets",
+    "ticketStatus": "Ticket Status",
+    "ticketSubject": "Subject",
+    "ticketMessage": "Message",
+    "ticketPriority": "Priority"
+  },
+  "home": {
+    "hero": {
+      "title": "Discover Timeless Elegance",
+      "subtitle": "Explore our collection of handcrafted sarees from India's finest weavers",
+      "cta": "Shop Now"
+    },
+    "featured": {
+      "title": "Featured Collections"
+    },
+    "categories": {
+      "title": "Shop by Category",
+      "explore": "Explore"
+    }
+  },
+  "wishlist": {
+    "title": "My Wishlist",
+    "empty": "Your wishlist is empty",
+    "moveToCart": "Move to Cart"
+  },
+  "footer": {
+    "about": {
+      "title": "About Us",
+      "description": "We bring you the finest collection of traditional and contemporary sarees from across India."
+    },
+    "customerService": {
+      "title": "Customer Service",
+      "shipping": "Shipping Information",
+      "returns": "Returns & Exchanges",
+      "sizeGuide": "Size Guide",
+      "contact": "Contact Us"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "shipping": "Shipping Policy"
+    },
+    "newsletter": {
+      "title": "Subscribe to Our Newsletter",
+      "description": "Get updates about new collections and special offers",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe"
+    }
+  },
+  "search": {
+    "placeholder": "Search for sarees...",
+    "noResults": "No results found",
+    "categories": "Categories",
+    "price": "Price Range",
+    "sort": "Sort By"
+  }
+} 

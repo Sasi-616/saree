@@ -1,0 +1,87 @@
+{
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "एक त्रुटि हुई",
+    "success": "सफल",
+    "cancel": "रद्द करें",
+    "save": "सहेजें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "view": "देखें",
+    "close": "बंद करें",
+    "back": "वापस",
+    "next": "अगला",
+    "submit": "जमा करें",
+    "search": "खोजें"
+  },
+  "navigation": {
+    "home": "होम",
+    "shop": "शॉप",
+    "categories": "श्रेणियाँ",
+    "cart": "कार्ट",
+    "wishlist": "विशलिस्ट",
+    "account": "खाता",
+    "orders": "ऑर्डर",
+    "support": "सहायता"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "register": "रजिस्टर",
+    "logout": "लॉगआउट",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "name": "नाम",
+    "phone": "फोन"
+  },
+  "product": {
+    "price": "मूल्य",
+    "sale": "बिक्री",
+    "outOfStock": "स्टॉक में नहीं है",
+    "inStock": "स्टॉक में है",
+    "addToCart": "कार्ट में जोड़ें",
+    "addToWishlist": "विशलिस्ट में जोड़ें",
+    "removeFromWishlist": "विशलिस्ट से हटाएं",
+    "description": "विवरण",
+    "specifications": "विशेषताएं",
+    "reviews": "समीक्षाएं",
+    "fabric": "कपड़ा",
+    "color": "रंग",
+    "occasion": "अवसर"
+  },
+  "cart": {
+    "empty": "आपका कार्ट खाली है",
+    "total": "कुल",
+    "subtotal": "उप-कुल",
+    "shipping": "शिपिंग",
+    "tax": "कर",
+    "checkout": "चेकआउट",
+    "continueShopping": "खरीदारी जारी रखें",
+    "quantity": "मात्रा",
+    "remove": "हटाएं"
+  },
+  "checkout": {
+    "shippingAddress": "शिपिंग पता",
+    "billingAddress": "बिलिंग पता",
+    "paymentMethod": "भुगतान विधि",
+    "orderSummary": "ऑर्डर सारांश",
+    "placeOrder": "ऑर्डर करें",
+    "orderSuccess": "ऑर्डर सफलतापूर्वक किया गया!"
+  },
+  "account": {
+    "profile": "प्रोफाइल",
+    "addresses": "पते",
+    "orderHistory": "ऑर्डर इतिहास",
+    "settings": "सेटिंग्स",
+    "changePassword": "पासवर्ड बदलें"
+  },
+  "support": {
+    "createTicket": "टिकट बनाएं",
+    "myTickets": "मेरे टिकट",
+    "ticketStatus": "टिकट स्थिति",
+    "ticketSubject": "विषय",
+    "ticketMessage": "संदेश",
+    "ticketPriority": "प्राथमिकता"
+  }
+} 
