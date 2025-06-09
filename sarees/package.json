@@ -4,6 +4,9 @@
   "description": "Online Saree Store - Traditional & Designer Sarees",
   "main": "start.js",
   "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
     "start": "node start.js"
   },
   "dependencies": {
@@ -17,9 +20,14 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-i18next": "^12.2.2",
-    "react-router-dom": "^6.11.1"
+    "react-router-dom": "^6.11.1",
+    "react-query": "^3.39.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.3.9"
   },
   "engines": {
     "node": ">=14.0.0"
   }
-} 
+}
